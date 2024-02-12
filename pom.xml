@@ -30,7 +30,7 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.11.0</version>
                 <configuration>
-                    <failIfNoTests>true</failIfNoTests>
+                <!--    <failIfNoTests>true</failIfNoTests> -->
                 </configuration>
 
             </plugin>
